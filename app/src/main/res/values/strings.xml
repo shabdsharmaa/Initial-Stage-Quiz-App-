@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="a">Is this project developed for Ayurveda House Private Limited ?</string>
+    <string name="true_text">Yes</string>
+    <string name="false_text">No</string>
+    <string name="prev_text">Prev.</string>
+    <string name="next_text">Next</string>
+    <string name="b">This is the second question</string>
+</resources>
